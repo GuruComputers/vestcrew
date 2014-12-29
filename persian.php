@@ -28,11 +28,15 @@
 			</header>
 		<div id="content">
 			<center>
-			<p>Hello we are the VestCrew</p>
 				<?php 
 					include $root.'menu.php';
 				?>
 			</center>
+			<p>Hello we are the VestCrew</p>
+			<?php
+				$playlist='gurucomputersuk';
+				include ('includes/videos.php');
+			?>
 		</div><!-- Content Div Closed -->
 		
 		<footer>
