@@ -46,7 +46,7 @@
 				<a href="https://www.youtube.com/user/PeterTimeVideos" alt="youtube link to PeterTimeVideos"><img src="./img/youtube.png" alt="youtube icon" class="youtube">PeterTimeVideos</a>
 				<a href="https://www.youtube.com/channel/UCs2f28VuqTUA6wXhfki6nWA" alt="youtube link to BorisTime"><img src="./img/youtube.png" alt="youtube icon" class="youtube">BorisTime</a>
 				<a href="https://www.youtube.com/channel/UCNiDwRbFSbOdmVbLbrl4Evw" alt="youtube link to ThePersianGamer"><img src="./img/youtube.png" alt="youtube icon" class="youtube">ThePersianGamer</a>
-				<a href="http://www.twitch.tv/izroderrzontwitch" alt="twitch link to IzRoderrz"><img src="./img/twitch.png" alt="twitch icon" class="twitch">IzRoderrz</a>
+				<a href="http://www.twitch.tv/izroderrzontwitch" alt="twitch link to IzRoderrz"><img src="./img/twitch.png" alt="twitch icon" class="twitch"></a>
 				<?php
 					$start=2014;
 					$current=date("Y");
