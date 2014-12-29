@@ -32,9 +32,6 @@
 				</nav>
 			</header>
 		</div> <!-- top div closed -->
-		<?php
-			echo '<img src="'.$root.'img/xmashr.png" class="hr">'."\n";
-		?>
 		<div id="content">
 			
 		</div><!-- Content Div Closed -->
