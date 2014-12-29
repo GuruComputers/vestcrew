@@ -1,4 +1,4 @@
-<table width="930" border="1">
+<table width="930">
 	<tr>
 		<td width="50%" align="center"><img src="./img/izroderrz.png" class="person"></td>
 		<td width="50%" align="center"><img src="./img/petertimevideos.png" class="person"></td>
