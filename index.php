@@ -8,7 +8,8 @@
 		$root = "./";
 		echo '<link rel="stylesheet" href="'.$root.'css/normalize.css">'."\n";
 		echo '<link rel="stylesheet" href="'.$root.'css/main.css">'."\n";
-		echo '<link rel="stylesheet" href="'.$root.'includes/video.css">'."\n";
+		echo '<link rel="stylesheet" href="'.$root.'includes/videos.css">'."\n";
+		echo '<script src="includes/videos.js" type="text/javascript"></script>'."\n";
 		if (date('m') == '12') {
  			echo '<link rel="stylesheet" href="'.$root.'css/snow.css">'."\n";
 		}
