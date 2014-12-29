@@ -108,6 +108,8 @@ footer {
 	display: inline-block;
 	position:fixed;
     bottom:0;
+    margin: auto;
+    width: 940px;
 }
 
 footer a {
