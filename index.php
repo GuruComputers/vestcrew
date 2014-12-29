@@ -24,19 +24,17 @@
 					echo '<a href="'.$root.'" id="logo"><img src="'.$root.'img/logo.png" class="logo"></a>'."\n";
 				?>
 				<nav>
-					<ul>
 						<?php 
 							// include $root.'menu.php';
 						?>
-					</ul>
 				</nav>
 			</header>
 		</div> <!-- top div closed -->
 		<div id="content">
-			<p class="SpeechBubble1">Hello we are the VestCrew</p>
-			<p class="SpeechBubble2">We are a Group of Gamers who make YouTube videos and stream on Twitch. </p>
-			<p class="SpeechBubble3">Hello we are the VestCrew</p>
-			<p class="SpeechBubble4">We are a Group of Gamers who make YouTube videos and stream on Twitch. </p>
+			<p>Hello we are the VestCrew</p>
+			<p>We are a Group of Gamers who make YouTube videos and stream on Twitch. </p>
+			<p>Hello we are the VestCrew</p>
+			<p>We are a Group of Gamers who make YouTube videos and stream on Twitch. </p>
 		</div><!-- Content Div Closed -->
 		
 		<footer>
