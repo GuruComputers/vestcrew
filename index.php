@@ -25,7 +25,7 @@
 				?>
 				<nav>
 						<?php 
-							// include $root.'menu.php';
+							 include $root.'menu.php';
 						?>
 				</nav>
 			</header>
