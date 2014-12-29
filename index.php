@@ -33,8 +33,10 @@
 			</header>
 		</div> <!-- top div closed -->
 		<div id="content">
-			<p class="WelcomeSpeechBubble">Hello we are the VestCrew</p>
-			<p class="AboutSpeechBubble">We are a Group of Gamers who make YouTube videos and stream on Twitch. </p>
+			<p class="SpeechBubble1">Hello we are the VestCrew</p>
+			<p class="SpeechBubble2">We are a Group of Gamers who make YouTube videos and stream on Twitch. </p>
+			<p class="SpeechBubble3">Hello we are the VestCrew</p>
+			<p class="SpeechBubble4">We are a Group of Gamers who make YouTube videos and stream on Twitch. </p>
 		</div><!-- Content Div Closed -->
 		
 		<footer>
