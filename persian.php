@@ -28,11 +28,11 @@
 			</header>
 		<div id="content">
 			<center>
-			<img src="/img/izroderrz_text.png" class="heading"/>
+			<img src="/img/parsa29801_text.png" class="heading"/>
 			<p>Full time hacker, awesome at pvp.</p>
 			<br /> <br />
 			<?php
-				$playlist='gurucomputersuk';
+				$playlist='UCNiDwRbFSbOdmVbLbrl4Evw';
 				include ('includes/videos.php');
 			?>
 			<br /><br />
