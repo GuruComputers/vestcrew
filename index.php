@@ -35,20 +35,9 @@
 			</center>
 			<p>Hello we are the VestCrew</p>
 			<?php
-				$username='gurucomputersuk';
+				$playlist='PLyxuJUQtrXH8fZeF8x2ReQi33iMProhfJ';
+				include ('includes/videos.php');
 			?>
-			<script type="text/javascript" src="../src/ytv.js"></script>
-		<script>
-			window.onload = function(){
-				
-				
-				window.controller = new YTV('frame', {
-					user: '<?php echo $username; ?>',
-					accent: 'yellow'
-				});
-		
-			};
-		</script>
 		</div><!-- Content Div Closed -->
 		
 		<footer>
