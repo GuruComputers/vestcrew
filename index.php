@@ -30,9 +30,10 @@
 			</header>
 		<div id="content">
 			<p>Hello we are the VestCrew</p>
-			<p>We are a Group of Gamers who make YouTube videos and stream on Twitch. </p>
-			<p>Hello we are the VestCrew</p>
-			<p>We are a Group of Gamers who make YouTube videos and stream on Twitch. </p>
+			<?php
+				$username='gurucomputersuk';
+				include ('includes/video.php');
+			?>
 		</div><!-- Content Div Closed -->
 		
 		<footer>
