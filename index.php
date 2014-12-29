@@ -23,12 +23,15 @@
 					echo '<a href="'.$root.'" id="logo"><img src="'.$root.'img/logo.png" class="logo"></a>'."\n";
 				?>
 				<nav>
-						<?php 
-							 include $root.'menu.php';
-						?>
+						
 				</nav>
 			</header>
 		<div id="content">
+			<center>
+				<?php 
+					include $root.'menu.php';
+				?>
+			</center>
 			<p>Hello we are the VestCrew</p>
 			<?php
 				$username='gurucomputersuk';
