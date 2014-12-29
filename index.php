@@ -33,7 +33,7 @@
 			</header>
 		</div> <!-- top div closed -->
 		<div id="content">
-			
+			<p class="SpeechBubble">Hello we are the VestCrew and we are a group of gamers who make youtube videos and stream on twitch. </p>
 		</div><!-- Content Div Closed -->
 		
 		<footer>
