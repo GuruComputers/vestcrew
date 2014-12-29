@@ -1,4 +1,4 @@
-<table width="624">
+<table width="624" border="1">
 	<tr>
 		<td width="25%">person 1</td>
 		<td width="25%">person 2</td>
