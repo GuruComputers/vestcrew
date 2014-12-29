@@ -33,6 +33,7 @@
 			<P>We upload content which contains a large variety of games including Minecraft, Garry’s Mod and PS4 games.</P>
 			<p>We also own a Minecraft server called killemallpvp. This ranges with games from mob arena to pvp.</p>
 			<p>The main goal of the VestCrew is to bring funny and entertaining videos and a great server that you will enjoy playing on.</p>
+			<br /> <br />
 				<?php 
 					include $root.'menu.php';
 				?>
