@@ -28,11 +28,11 @@
 			</header>
 		<div id="content">
 			<center>
-			<img src="/img/izroderrz_text.png" class="heading"/>
-			<p>Ginger, bad at everything apart from spawning stuff in, streams on twitch every tuesday and thursday.</p>
+			<img src="/img/petertimevideos_text.png" class="heading"/>
+			<p>Small, good at hardcore parkour and hacks.</p>
 			<br /> <br />
 			<?php
-				$playlist='gurucomputersuk';
+				$playlist='PeterTimeVideos';
 				include ('includes/videos.php');
 			?>
 			<br /><br />

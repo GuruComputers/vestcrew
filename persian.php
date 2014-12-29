@@ -22,14 +22,14 @@
 				<?php
 					echo '<a href="'.$root.'" id="logo"><img src="'.$root.'img/logo.png" class="logo"></a>'."\n";
 				?>
-				<nav>
+				<nav> 
 						
 				</nav>
 			</header>
 		<div id="content">
 			<center>
 			<img src="/img/izroderrz_text.png" class="heading"/>
-			<p>Ginger, bad at everything apart from spawning stuff in, streams on twitch every tuesday and thursday.</p>
+			<p>Full time hacker, awesome at pvp.</p>
 			<br /> <br />
 			<?php
 				$playlist='gurucomputersuk';
