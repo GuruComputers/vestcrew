@@ -26,7 +26,7 @@
 				<nav>
 					<ul>
 						<?php 
-							include $root.'menu.php';
+							// include $root.'menu.php';
 						?>
 					</ul>
 				</nav>
