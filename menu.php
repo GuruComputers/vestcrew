@@ -1,4 +1,4 @@
-<table width="930">
+<table width="940">
 	<tr>
 		<td width="50%" align="center"><a href="./izroderrz.php"><img src="./img/izroderrz.png" class="person"></a></td>
 		<td width="50%" align="center"><a href="./peter.php"><img src="./img/petertimevideos.png" class="person"></a></td>
