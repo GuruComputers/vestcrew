@@ -32,7 +32,7 @@
 			<p>Ginger, bad at everything apart from spawning stuff in, streams on twitch every tuesday and thursday.</p>
 			<br /> <br />
 			<?php
-				$playlist='gurucomputersuk';
+				$playlist='IzRoderrz';
 				include ('includes/videos.php');
 			?>
 			<br /><br />
