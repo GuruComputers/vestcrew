@@ -114,5 +114,6 @@ nav a.selected {
 }
 
 .twitch {
-	width: 15%;
+	height: 30px;
+	width: auto;
 }
