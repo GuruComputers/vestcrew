@@ -54,7 +54,7 @@
 					$start=2014;
 					$current=date("Y");
 					$cy="";
-					if ($current=$start) {
+					if ($current==$start) {
 						$cy=$start;
 					}
 					if ($current>$start) {
