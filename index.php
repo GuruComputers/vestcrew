@@ -33,7 +33,7 @@
 			</header>
 		</div> <!-- top div closed -->
 		<div id="content">
-			<p class="SpeechBubble">Hello we are the VestCrew</p>
+			<p class="WelcomeSpeechBubble">Hello we are the VestCrew</p>
 		</div><!-- Content Div Closed -->
 		
 		<footer>
