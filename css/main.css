@@ -92,7 +92,8 @@ footer {
 	width: 100%;
 	padding-bottom: 10px;
 	display: inline-block;
-	position: relative;
+	position:fixed;
+    bottom:0;
 }
 
 footer a {
