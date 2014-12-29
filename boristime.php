@@ -22,17 +22,17 @@
 				<?php
 					echo '<a href="'.$root.'" id="logo"><img src="'.$root.'img/logo.png" class="logo"></a>'."\n";
 				?>
-				<nav>
+				<nav> 
 						
 				</nav>
 			</header>
 		<div id="content">
 			<center>
-			<img src="/img/izroderrz_text.png" class="heading"/>
-			<p>Ginger, bad at everything apart from spawning stuff in, streams on twitch every tuesday and thursday.</p>
+			<img src="/img/boristime_text.png" class="heading"/>
+			<p>Also small, good at factions and also spawning stuff in.</p>
 			<br /> <br />
 			<?php
-				$playlist='gurucomputersuk';
+				$playlist='UCs2f28VuqTUA6wXhfki6nWA';
 				include ('includes/videos.php');
 			?>
 			<br /><br />
