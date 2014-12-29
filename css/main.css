@@ -50,6 +50,16 @@ nav {
 	display: inline-block;
 }
 
+.person {
+	height: 30px;
+	width: auto;
+}
+
+.persontxt {
+	height: 27px;
+	width: auto;
+}
+
 /**********************
     PAGE: Homepage
 **********************/
