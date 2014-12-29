@@ -28,11 +28,8 @@
 			</header>
 		<div id="content">
 			<center>
-			<img src="/img/heading.png" class="heading"/>
-			<p>We are a Group of Gamers who make YouTube Videos and Stream on Twitch.</p>
-			<P>We upload content which contains a large variety of games including Minecraft, Garry’s Mod and PS4 games.</P>
-			<p>We also own a Minecraft server called killemallpvp. This ranges with games from mob arena to pvp.</p>
-			<p>The main goal of the VestCrew is to bring funny and entertaining videos and a great server that you will enjoy playing on.</p>
+			<img src="/img/izroderrz_text.png" class="heading"/>
+			<p>Ginger, bad at everything apart from spawning stuff in, streams on twitch every tuesday and thursday.</p>
 			<br /> <br />
 			<?php
 				$playlist='gurucomputersuk';
@@ -42,11 +39,13 @@
 				<?php 
 					include $root.'menu.php';
 				?>
+				<br /><br /><br /><br /><br /><br /><br /><br />
 			</center>
 		</div><!-- Content Div Closed -->
 		
 		<footer>
 			<center>
+			<br />
 				<a href="https://www.youtube.com/user/IzRoderrz" alt="youtube link to IzRoderrz"><img src="./img/youtube.png" alt="youtube icon" class="youtube">IzRoderrz</a>
 				<a href="https://www.youtube.com/user/PeterTimeVideos" alt="youtube link to PeterTimeVideos"><img src="./img/youtube.png" alt="youtube icon" class="youtube">PeterTimeVideos</a>
 				<a href="https://www.youtube.com/channel/UCs2f28VuqTUA6wXhfki6nWA" alt="youtube link to BorisTime"><img src="./img/youtube.png" alt="youtube icon" class="youtube">BorisTime</a>

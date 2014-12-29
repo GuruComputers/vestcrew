@@ -3,7 +3,7 @@
 **********************/
 body {
 	background-color: #282827;
-	max-height:100%;
+	max-height: 100%;
 }
 
 #wrapper {
@@ -12,12 +12,12 @@ body {
 	margin-right: auto;
 	background: white;
 	height: 100%;
-	padding-left: 5px;
-	padding-right: 5px;
 }
 
 #content {
     width: 100%;
+	height: auto;
+	background: white;
 }
 
 p {
@@ -147,6 +147,8 @@ footer {
     bottom:0;
     margin: auto;
     width: 940px;
+    background: #fff;
+    border-top: 1px solid #000;
 }
 
 footer a {
