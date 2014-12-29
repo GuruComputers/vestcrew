@@ -32,8 +32,8 @@
 			<p>Also small, good at factions and also spawning stuff in.</p>
 			<br /> <br />
 			<?php
-				$playlist='UCs2f28VuqTUA6wXhfki6nWA';
-				include ('includes/videos.php');
+				// $playlist='UCs2f28VuqTUA6wXhfki6nWA';
+				// include ('includes/videos.php');
 			?>
 			<br /><br />
 				<?php 

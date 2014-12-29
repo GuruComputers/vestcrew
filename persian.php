@@ -32,8 +32,8 @@
 			<p>Full time hacker, awesome at pvp.</p>
 			<br /> <br />
 			<?php
-				$playlist='UCNiDwRbFSbOdmVbLbrl4Evw';
-				include ('includes/videos.php');
+				// $playlist='UCNiDwRbFSbOdmVbLbrl4Evw';
+				// include ('includes/videos.php');
 			?>
 			<br /><br />
 				<?php 
