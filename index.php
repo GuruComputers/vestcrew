@@ -18,7 +18,6 @@
 
 <body>
 	<div id="wrapper">
-		<div id="top">
 			<header>
 				<?php
 					echo '<a href="'.$root.'" id="logo"><img src="'.$root.'img/logo.png" class="logo"></a>'."\n";
@@ -29,7 +28,6 @@
 						?>
 				</nav>
 			</header>
-		</div> <!-- top div closed -->
 		<div id="content">
 			<p>Hello we are the VestCrew</p>
 			<p>We are a Group of Gamers who make YouTube videos and stream on Twitch. </p>
