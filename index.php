@@ -9,7 +9,6 @@
 		echo '<link rel="stylesheet" href="'.$root.'css/normalize.css">'."\n";
 		echo '<link rel="stylesheet" href="'.$root.'css/main.css">'."\n";
 		echo '<link rel="stylesheet" href="'.$root.'includes/videos.css">'."\n";
-		echo '<script src="includes/videos.js" type="text/javascript"></script>'."\n";
 		if (date('m') == '12') {
  			echo '<link rel="stylesheet" href="'.$root.'css/snow.css">'."\n";
 		}
@@ -37,8 +36,19 @@
 			<p>Hello we are the VestCrew</p>
 			<?php
 				$username='gurucomputersuk';
-				include ('includes/videos.php');
 			?>
+			<script type="text/javascript" src="../src/ytv.js"></script>
+		<script>
+			window.onload = function(){
+				
+				
+				window.controller = new YTV('frame', {
+					user: '<?php echo $username; ?>',
+					accent: 'yellow'
+				});
+		
+			};
+		</script>
 		</div><!-- Content Div Closed -->
 		
 		<footer>
