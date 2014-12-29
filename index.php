@@ -37,7 +37,7 @@
 		</div><!-- Content Div Closed -->
 		<br><br>
 		
-		<div id="guru_footer">
+		<div id="footer">
 			<center>
 				<a href="https://www.youtube.com/user/IzRoderrz" alt="youtube link to IzRoderrz"><img src="./img/youtube.png" alt="youtube icon" class="youtube">IzRoderrz</a>
 				<a href="https://www.youtube.com/user/PeterTimeVideos" alt="youtube link to PeterTimeVideos"><img src="./img/youtube.png" alt="youtube icon" class="youtube">PeterTimeVideos</a>
