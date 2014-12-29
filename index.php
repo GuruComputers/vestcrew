@@ -34,6 +34,7 @@
 		</div> <!-- top div closed -->
 		<div id="content">
 			<p class="WelcomeSpeechBubble">Hello we are the VestCrew</p>
+			<p class="AboutSpeechBubble">We are a Group of Gamers who make YouTube videos and stream on Twitch. </p>
 		</div><!-- Content Div Closed -->
 		
 		<footer>
