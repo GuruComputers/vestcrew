@@ -58,7 +58,7 @@
 						$cy=$start."-".$current;
 					}
 					echo "&copy"." ".$cy." Guru Computers Ltd."."\n";
-					echo "This is a Free Website provided by <a href=\"http://www.gurucomputers.co.uk\">Guru Computers Ltd</a>";
+					echo "This is a Free Website provided by <a href=\"http://www.gurucomputers.co.uk\" target=\"_blank\">Guru Computers Ltd</a>";
 				?>
 			</center>
 		</div> <!-- footer div closed -->
