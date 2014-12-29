@@ -47,28 +47,7 @@ header {
 }
 
 nav {
-	text-align: right;
 	display: inline-block;
-}
-
-nav a {
-	padding: 15px 10px;
-    font-size: 18px;
-    font-weight: bold;
-    text-decoration: none;
-    color: black;
-}
-
-nav a:visited {
-	color: black;
-}
-
-nav a:hover {
-	color: green;
-}
-
-nav a.selected {
-	color: red;
 }
 
 /**********************
