@@ -109,4 +109,10 @@ nav a.selected {
 .youtube {
 	height: 30px;
 	width: 30px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.twitch {
+	width: 15%;
 }
