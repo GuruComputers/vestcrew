@@ -31,7 +31,7 @@
 			<center>
 			<p>We are a Group of Gamers who make YouTube Videos and Stream on Twitch.</p>
 			<P>We upload content which contains a large variety of games including Minecraft, Garry’s Mod and PS4 games.</P>
-			<p>The main goal of the VestCrew is to bring funny and entertaining videos and a great server that you will enjoy playing on.</p>
+			<p>The main goal of the VestCrew is to bring funny and entertaining videos and great channels for you to watch.</p>
 			<br /> <br />
 			<img src="/img/mcwtvc.png" class="heading"/>
 			<p>MCWTVC is the survival Minecraft server that the vest crew play on, here we will fight to survive and try to beat other members of the vest crew in this server. Our next season will be hardcore modded!</p>
