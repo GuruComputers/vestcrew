@@ -34,12 +34,19 @@
 			<p>We also own a Minecraft server called killemallpvp. This ranges with games from mob arena to pvp.</p>
 			<p>The main goal of the VestCrew is to bring funny and entertaining videos and a great server that you will enjoy playing on.</p>
 			<br /> <br />
+			<img src="/img/mcwtvc.png" class="heading"/>
+			<p>MCWTVC is the survival Minecraft server that the vest crew play on, here we will fight to survive and try to beat other members of the vest crew in this server. Our next season will be hardcore modded!</p>
+			<br />
+			<img src="img/1.png" alt="Picture from Mincecraft" title="http://www.enjin.com/profile/9519972" class="decoration" align="center" />
+			<br /><br />
+			<a href="downloads/MWTVC-Modpack.rar" target="_blank">Download our Modpack!</a>
+			<br /> <br />
 				<?php 
 					include $root.'menu.php';
 				?>
 			</center>
+					<br /> <br /><br /> <br /><br /> <br /><br /> <br /><br /> <br /><br />
 		</div><!-- Content Div Closed -->
-		
 		<?php
 			include "./includes/footer.php";
 		?>
