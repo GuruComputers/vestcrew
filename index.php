@@ -33,7 +33,7 @@
 			<br />
 			<img src="img/1.png" alt="Picture from Mincecraft" title="http://www.enjin.com/profile/9519972" class="decoration" align="center" />
 			<br /><br />
-			<a href="downloads/MWTVC-Modpack.rar" target="_blank">Download our Modpack!</a>
+			<a href="http://tinyurl.com/nuufj3k" target="_blank">Download our Modpack!</a>
 			<br /> <br />
 				<?php 
 					include $root.'menu.php';
