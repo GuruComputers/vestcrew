@@ -44,7 +44,7 @@
 		</div><!-- Content Div Closed -->
 		
 				<?php 
-					include $root.'menu.php';
+					include $root.'includes/footer.php';
 				?>
 
 	</div> <!-- wrapper div closed -->
