@@ -23,6 +23,7 @@
 		?>
 		<div id="content">
 			<center>
+			<br /> <br /><br /> <br /><br />
 			<img src="/img/boristime_text.png" class="heading"/>
 			<p>Also small, good at factions and also spawning stuff in.</p>
 			<br /> <br />

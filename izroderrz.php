@@ -23,6 +23,7 @@
 		?>
 		<div id="content">
 			<center>
+			<br /> <br /><br /> <br /><br />
 			<img src="/img/izroderrz_text.png" class="heading"/>
 			<p>Ginger, bad at everything apart from spawning stuff in, streams on twitch every tuesday and thursday.</p>
 			<br /> <br />

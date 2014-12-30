@@ -23,6 +23,7 @@
 		?>
 		<div id="content">
 			<center>
+			<br /> <br /><br /> <br /><br />
 			<img src="/img/parsa29801_text.png" class="heading"/>
 			<p>Full time hacker, awesome at pvp.</p>
 			<br /> <br />
