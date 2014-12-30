@@ -20,13 +20,14 @@
 	<div id="wrapper">
 			<header>
 				<?php
-					echo '<a href="'.$root.'" id="logo"><img src="'.$root.'img/logo.png" class="logo"></a>'."\n";
+					echo '<a href="'.$root.'" id="logo"><img src="'.$root.'img/banner.png" class="heading"></a>'."\n";
 				?>
 				<nav>
 						
 				</nav>
 			</header>
 		<div id="content">
+			<br /> <br />
 			<center>
 			<img src="/img/heading.png" class="heading"/>
 			<p>We are a Group of Gamers who make YouTube Videos and Stream on Twitch.</p>
