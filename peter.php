@@ -25,7 +25,7 @@
 			<center>
 			<br /> <br /><br /> <br /><br />
 			<img src="/img/petertimevideos_text.png" class="heading"/>
-			<p>Small, good at hardcore parkour and hacks.</p>
+			<p>An all round Keeno! Loves the game and tries to be the best at it in all platforms and to mess with Rhodri</p>
 			<br /> <br />
 			<?php
 				$playlist='PeterTimeVideos';

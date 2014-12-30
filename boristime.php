@@ -25,7 +25,7 @@
 			<center>
 			<br /> <br /><br /> <br /><br />
 			<img src="/img/boristime_text.png" class="heading"/>
-			<p>Also small, good at factions and also spawning stuff in.</p>
+			<p>Hates Minecraft but sticks with us because he would otherwise be beaten up! Good at dying though...</p>
 			<br /> <br />
 			<?php
 				// $playlist='UCs2f28VuqTUA6wXhfki6nWA';
