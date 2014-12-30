@@ -27,12 +27,10 @@
 				</nav>
 			</header>
 		<div id="content">
-			<br /> <br />
+			<br /> <br /><br /> <br /><br />
 			<center>
-			<img src="/img/heading.png" class="heading"/>
 			<p>We are a Group of Gamers who make YouTube Videos and Stream on Twitch.</p>
 			<P>We upload content which contains a large variety of games including Minecraft, Garry’s Mod and PS4 games.</P>
-			<p>We also own a Minecraft server called killemallpvp. This ranges with games from mob arena to pvp.</p>
 			<p>The main goal of the VestCrew is to bring funny and entertaining videos and a great server that you will enjoy playing on.</p>
 			<br /> <br />
 			<img src="/img/mcwtvc.png" class="heading"/>
