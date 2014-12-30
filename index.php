@@ -18,14 +18,9 @@
 
 <body>
 	<div id="wrapper">
-			<header>
-				<?php
-					echo '<a href="'.$root.'" id="logo"><img src="'.$root.'img/banner.png" class="heading"></a>'."\n";
-				?>
-				<nav>
-						
-				</nav>
-			</header>
+	<?php
+		include "./includes/header.php";
+	?>
 		<div id="content">
 			<br /> <br /><br /> <br /><br />
 			<center>

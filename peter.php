@@ -18,14 +18,9 @@
 
 <body>
 	<div id="wrapper">
-			<header>
-				<?php
-					echo '<a href="'.$root.'" id="logo"><img src="'.$root.'img/logo.png" class="logo"></a>'."\n";
-				?>
-				<nav>
-						
-				</nav>
-			</header>
+		<?php
+			include "./includes/header.php";
+		?>
 		<div id="content">
 			<center>
 			<img src="/img/petertimevideos_text.png" class="heading"/>
